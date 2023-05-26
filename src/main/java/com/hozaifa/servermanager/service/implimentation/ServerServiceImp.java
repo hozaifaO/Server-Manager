@@ -1,10 +1,9 @@
 package com.hozaifa.servermanager.service.implimentation;
 
-import com.hozaifa.servermanager.Model.Server;
+import com.hozaifa.servermanager.model.Server;
 import com.hozaifa.servermanager.enums.Status;
 import com.hozaifa.servermanager.repos.ServerRepo;
 import com.hozaifa.servermanager.service.ServerService;
-import jakarta.persistence.Id;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

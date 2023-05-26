@@ -1,6 +1,6 @@
 package com.hozaifa.servermanager.service;
 
-import com.hozaifa.servermanager.Model.Server;
+import com.hozaifa.servermanager.model.Server;
 
 import java.io.IOException;
 import java.util.Collection;

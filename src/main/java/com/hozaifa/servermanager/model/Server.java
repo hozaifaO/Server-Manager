@@ -1,4 +1,4 @@
-package com.hozaifa.servermanager.Model;
+package com.hozaifa.servermanager.model;
 
 import com.hozaifa.servermanager.enums.Status;
 import jakarta.persistence.*;
